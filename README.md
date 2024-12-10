@@ -2,5 +2,4 @@
 - 👀 I’m interested in ... Software and website development
 - 🌱 I’m currently learning ... Javascript and Swift
 - 📫 How to reach me ... Discord: kindercode2ne
-- 💿 Fav artist ... Tyler the creator
 - 🔗 Bio ... https://fakecrime.bio/kindercode1ne
