@@ -1,10 +1,9 @@
-# ✨ yo this is my profile
-I'm `kindercodeine`
+Hi I'm `kindercodeine`
 
 ### 🔍 What I do  
 - Full-stack dev
 - Web app pentesting
-- Rice my linux for hours
+- Write some python scripts
 
 ### 📚 Currently learning:
 - React
@@ -15,5 +14,5 @@ I'm `kindercodeine`
 > Discord: `kindecode2ne`  
 > Bio: `https://fakecrime.bio/kd`
 
-![Description](https://cdn.pfps.gg/banners/1784-thunder.gif)
+![image](https://cdn.pfps.gg/banners/1784-thunder.gif)
 
