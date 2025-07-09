@@ -1,4 +1,4 @@
-Hi I'm `kindercodeine`
+## Hi I'm `kindercodeine`
 
 ### 🔍 What I do  
 - Full-stack dev
