@@ -3,7 +3,7 @@
 ### 🔍 What I do  
 - Full-stack dev
 - Web app pentesting
-- Play valorant
+- Struggle with using git (help)
 
 ### 📚 Currently learning:
 - React
